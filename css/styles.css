@@ -7,7 +7,6 @@
   }
 
   #about-bg {
-    background-image: url("../assets/pizzeria.jpg");
     background-blend-mode: overlay;
     background-attachment: fixed;
     background-size: cover;
